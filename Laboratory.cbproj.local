@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.239,E:\projects\курсовые\lab_WUZ\WUZY.cbproj=E:\projects\курсовые\lab_WUZ\Laboratory.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.550,E:\projects\курсовые\lab_WUZ\Project1PCH1.h=E:\projects\курсовые\lab_WUZ\WUZYPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.210,E:\projects\курсовые\lab_WUZ\WUZYPCH1.h=E:\projects\курсовые\lab_WUZ\LaboratoryPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\lab_WUZ\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.012,=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\lab_WUZ\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.721,C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\lab_WUZ\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\lab_WUZ\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\lab_WUZ\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\lab_WUZ\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.721,C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\lab_WUZ\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.721,C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\lab_WUZ\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,=C:\Users\Dessan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.228,=E:\projects\курсовые\lab_WUZ\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,E:\projects\курсовые\lab_WUZ\Project1.cbproj=E:\projects\курсовые\lab_WUZ\WUZY.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
